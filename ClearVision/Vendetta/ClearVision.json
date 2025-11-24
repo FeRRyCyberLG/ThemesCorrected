@@ -534,3 +534,8 @@
     },
     "spec": 2
             }
+
+"font": {
+    "primary": "https://github.com/google/fonts/raw/main/ofl/play/Play-Regular.ttf",
+    "code": "https://github.com/google/fonts/raw/main/ofl/play/Play-Regular.ttf"
+}
